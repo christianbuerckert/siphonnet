@@ -2,6 +2,12 @@
 
 **A reservoir computer made of self-emptying water containers.**
 
+[![100 simulated siphons in a gravity cascade recognising the letter S](docs/preview.png)](https://github.com/christianbuerckert/siphonnet/releases/tag/v0.1)
+
+**Demo video, 91 s:** [English](https://github.com/christianbuerckert/siphonnet/releases/download/v0.1/siphonnet_en.mp4) ·
+[Deutsch](https://github.com/christianbuerckert/siphonnet/releases/download/v0.1/siphonnet_de.mp4) —
+every level and pulse in it comes from the simulation ([how it is made](#demo-video)).
+
 Each "neuron" is a container with a bell siphon: it fills, and when the water reaches the
 rim of the standpipe the siphon primes and empties the container in one go, down to the
 level where air breaks the siphon. The discharge is split between a few other containers.
