@@ -190,3 +190,7 @@ python3.12 -m venv .venv && .venv/bin/pip install -e '.[dev]'
 - Z. Olami, H. J. S. Feder, K. Christensen (1992). Self-organized criticality in a continuous, nonconservative cellular automaton modeling earthquakes. *PRL* 68.
 - J. M. Beggs, D. Plenz (2003). Neuronal avalanches in neocortical circuits. *J. Neurosci.* 23(35).
 - M. Stern, D. Hexner, J. W. Rocks, A. J. Liu (2021). Supervised learning in physical networks. *PRX* 11. [arXiv:2011.03861](https://arxiv.org/abs/2011.03861)
+
+## License
+
+MIT — see [LICENSE](LICENSE).

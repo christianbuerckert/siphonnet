@@ -3,6 +3,7 @@ name = "siphonnet"
 version = "0.1.0"
 description = "A hydraulic reservoir computer built from self-emptying siphons"
 requires-python = ">=3.10"
+license = "MIT"
 dependencies = ["numpy>=1.26", "scipy>=1.11", "scikit-learn>=1.4", "matplotlib>=3.8"]
 
 [project.optional-dependencies]
